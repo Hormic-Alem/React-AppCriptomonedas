@@ -1,3 +1,4 @@
+![cripto](https://user-images.githubusercontent.com/73864129/121959456-74648f80-cd2a-11eb-87d5-e0903338094c.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
