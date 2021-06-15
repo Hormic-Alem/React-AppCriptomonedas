@@ -1,3 +1,4 @@
+Aplicacicón creada con React-js consumiendo API de coingecko para busqueda de criptomonedas en tiempo real.
 ![cripto](https://user-images.githubusercontent.com/73864129/121959456-74648f80-cd2a-11eb-87d5-e0903338094c.png)
 # Getting Started with Create React App
 
